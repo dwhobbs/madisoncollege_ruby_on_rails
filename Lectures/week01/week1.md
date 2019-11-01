@@ -6,7 +6,7 @@
 
 ---
 #Work
-* Senior Development Manager at Rosh Review, LLC
+* Operations Manager at healthfinch
 * Author at Pragmatic Bookshelf
 * Owner at JohnsonCH, LLC
 
@@ -25,7 +25,7 @@
 * Daughters: Kenzie and Elise
 * Dogs: Scooter and Miley
 
-![fit right](https://dl.dropboxusercontent.com/s/ytbuugn4f99shm8/2016-08-18%20at%209.34%20PM.png)
+![fit right](https://farm5.staticflickr.com/4419/35804476453_d3f5b4ee3a_k.jpg)
 
 ---
 #About you
@@ -61,21 +61,19 @@
 
 ---
 #Activity
-##An image that describes you today
-* Go to https://team-mita.slack.com and sign up for an account (if you haven't already)
-* Join the ruby-on-rails room
-* Go to https://www.gettyimages.com and find and image that describes you today and post a link to it
-  in the slack room.
-* I'll scroll through the images and you will share what the image represents
+## Rock, paper, scissors
 
 ---
 
 #Preparing our shop
 * Slack
 * Bitbucket
+* Github
 * Heroku
+* Cloud9
 * Development Environment (Lab 1)
 
 ---
 #Exit Ticket
-* [http://bit.ly/2b6u10C](http://bit.ly/2b6u10C)
+* Instructor Question: "How do you learn best? Lectures, independent study, hands on, etc"
+* [http://exitticket.johnsonch.com](http://exitticket.johnsonch.com)
